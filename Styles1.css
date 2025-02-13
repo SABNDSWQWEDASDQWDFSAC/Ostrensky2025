@@ -1,0 +1,21 @@
+css
+.large {
+    font-size: xx-large;
+}
+
+.medium {
+    font-size: large;
+}
+
+.small {
+    font-size: small;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+```
